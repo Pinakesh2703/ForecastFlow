@@ -1,8 +1,7 @@
-# ForecastFlow
 
 ![image](https://github.com/user-attachments/assets/210162cb-157e-4a1a-b60a-7d23373fe276)
 
-# Weather App
+# ForecastFlow
 
 A simple weather application that provides current weather details and a 5-day forecast for any city. The app integrates with the OpenWeatherMap API to fetch weather data and uses Leaflet.js to display the city location on a map.
 
